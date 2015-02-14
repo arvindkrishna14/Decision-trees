@@ -1,0 +1,3 @@
+http://nltk.github.com/nltk_data/packages/corpora/brown.zip
+
+Brown dataset. This is the data set I used for the implementation of the viterbi algorithm.
